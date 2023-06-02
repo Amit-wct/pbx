@@ -18,7 +18,7 @@ class PostgresDatabase {
       5434,
       'misc',
       username: 'domains',
-      password: 'your_password',
+      password: 'your_password', 
     );
 
     await _connection.open();
